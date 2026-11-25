@@ -8,7 +8,7 @@ function App() {
       <main className="relative flex h-dvh w-full flex-col justify-between overflow-hidden bg-[#061830] sm:h-[calc(100dvh-44px)] sm:max-h-[730px] sm:max-w-[385px] sm:rounded-[24px] sm:shadow-[0_18px_50px_rgba(6,24,48,0.24)]">
         {/* Background sanctuary arch & golden light wave fitted to full frame */}
         <img
-          src="/bg.png"
+          src="/bg.webp"
           alt=""
           aria-hidden="true"
           className="pointer-events-none absolute inset-0 h-full w-full select-none object-fill"
