@@ -64,6 +64,11 @@ function App() {
               <PortalCard key={portal.id} portal={portal} />
             ))}
           </section>
+
+          {/* Malayalam subcopy below the two portal cards */}
+          <p className="mx-auto mt-5 max-w-[290px] text-center font-malayalam text-[10.5px] leading-[1.65] text-white/80 drop-shadow-[0_2px_8px_rgba(0,0,0,0.65)] sm:mt-4">
+            നേർച്ചകളും സംഭാവനകളും നിങ്ങളുടെ ഫോണിലൂടെ നേരിട്ട്, എളുപ്പത്തിലും വിശ്വാസത്തോടെയും സമർപ്പിക്കാം.
+          </p>
         </div>
       </main>
     </div>
