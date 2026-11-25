@@ -43,10 +43,10 @@ function App() {
 
           {/* Hero Malayalam & English Headline */}
           <section className="mt-7 flex flex-col items-center text-center sm:mt-5" aria-label="Introduction">
-            <p className="font-malayalam text-[13.5px] font-bold leading-[1.45] text-white drop-shadow-[0_2px_10px_rgba(0,0,0,0.65)]">
-              നിങ്ങളുടെ ആരാധനാലയത്തിലേക്ക്
+            <p className="font-malayalam text-[13px] font-bold leading-[1.45] text-white drop-shadow-[0_2px_10px_rgba(0,0,0,0.65)]">
+              വിശ്വാസത്തിന്റെ സമർപ്പണങ്ങൾക്ക്
               <span className="mt-0.5 block text-gold-gradient">
-                ഇനി ഡിജിറ്റൽ നേർച്ചയും സംഭാവനയും
+                പുതിയൊരു ഡിജിറ്റൽ വഴി.
               </span>
             </p>
 
